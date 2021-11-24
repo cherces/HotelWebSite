@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;AACA,aADA,QAAA,gBACAA,QAAQC,IAAI","file":"src.e31bb0bc.js","sourceRoot":"..\\src","sourcesContent":["import './style.scss';\r\nconsole.log('Hello main.js!')"]}

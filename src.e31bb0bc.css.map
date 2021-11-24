@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAEA,GACI","file":"src.e31bb0bc.css","sourceRoot":"..\\src","sourcesContent":["$color_h1: tomato;\r\n\r\nh1 {\r\n    color: $color_h1;\r\n}"]}
